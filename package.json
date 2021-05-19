@@ -12,5 +12,9 @@
     "api"
   ],
   "author": "@gabrielcode-pe Gabriel Callaca",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1"
+  }
 }
