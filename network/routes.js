@@ -1,4 +1,4 @@
-const usersRoute = require('../componets/user/network');
+const usersRoute = require('../components/user/network');
 
 
 function routes (server){
